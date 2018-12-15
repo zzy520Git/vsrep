@@ -5,3 +5,4 @@
 4.拉取git pull origin master
 5.推git push -u origin master
 6.点击拉取按钮
+7.先点击勾选，然后输入提交描述信息，然后push即可（注意先保存）
